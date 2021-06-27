@@ -1,0 +1,58 @@
+body {
+  font-family: Georgia;
+}
+
+h1 {
+  font-size: 125px;
+  text-align: center;
+  text-shadow: 2px 2px 30px #3C99B0;
+  color: #5AC5E0;
+  margin: 0px;
+  padding: 125px;
+  background-color: black;
+/*  background-color: #225663; */
+  position: static;
+}
+
+#section1 {
+  padding: 20px;
+  margin-top: 80px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 0px;
+  border: dotted black 3.5px;
+  font-size: 20px;
+  text-align: center;
+}
+
+#section2-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+
+}
+
+#section2-2 {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 175px;
+}
+
+#section3 {
+  margin: 35px;
+  padding: 30px;
+  font-size: 20px;
+  background-color: #E6EAEA;
+  border-bottom: black dashes 2.5px;
+
+}
+
+#section4 {
+  margin-top: 175px;
+  font-size: 25px;
+  padding: 90px;
+  text-align: center;
+  border-top: black solid 2.5px;
+}
